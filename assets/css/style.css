@@ -1,0 +1,23 @@
+body {
+    background-image: url("/Users/dominicabogado/Desktop/bootcamp/basic-portfolio/assets/images/circles-light.png")
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    border-bottom-style: solid, #cccccc;
+    margin: 0;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px; 
+
+}
+#mypicture {
+    float: left;
+
+}
+
+p{
+    color:#777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
